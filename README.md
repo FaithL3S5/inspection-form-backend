@@ -30,8 +30,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-inspection-backend.git
-   cd car-inspection-backend
+   git clone https://github.com/FaithL3S5/inspection-form-backend.git
+   cd inspection-form-backend
    ```
 
 2. Install dependencies:
